@@ -1,0 +1,77 @@
+.screenshot {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.ss-item {
+    margin: 1em;
+}
+
+.lofi-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.lofi-item {
+    margin: 1em;
+}
+
+.style-guide-container {
+    display: flex;
+    justify-content: center;
+}
+
+.hifi-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.hifi-item {
+    margin: 1em;
+}
+
+body {
+    background-color: rgb(255, 224, 173);
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+}
+
+h1{
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+    padding-left: 1em;
+}
+
+h3{
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+    padding-left: 2em;
+}
+
+h4{
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+    padding-left: 2.4em;
+}
+
+ol{
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+ul{
+    font-family: 'Optima', 'Segoe', 'Segoe UI', 'Calibri', 'Arial', sans-serif;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+p {
+    padding-left: 3em;
+    padding-right: 3em;
+}
